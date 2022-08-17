@@ -1,0 +1,216 @@
+﻿  animation.cpp
+  application.cpp
+  camera.cpp
+  input.cpp
+  main.cpp
+  material.cpp
+  mesh.cpp
+  scenenode.cpp
+  shader.cpp
+  texture.cpp
+  utils.cpp
+  volume.cpp
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\animation.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\animation.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\animation.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\animation.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\scenenode.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\scenenode.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\scenenode.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\scenenode.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\material.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\material.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\material.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\material.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\camera.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\camera.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\camera.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\camera.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\mesh.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\mesh.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\mesh.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\mesh.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\application.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\application.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\application.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\application.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\texture.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\texture.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\texture.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\texture.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\input.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\input.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\input.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\input.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\volume.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\volume.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\volume.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\volume.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\utils.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\utils.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\utils.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\utils.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\shader.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\shader.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\shader.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\shader.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\main.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\main.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\main.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\main.cpp)
+D:\Arnau\Videos\P2_218172_217879\src\application.cpp(81,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+D:\Arnau\Videos\P2_218172_217879\src\application.cpp(116,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\application.cpp(117,20): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(18,51): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\application.cpp(119,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(18,9): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(19,56): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\application.cpp(128,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(19,9): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(24,15): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(25,15): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(32,55): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(32,9): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(33,57): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(33,9): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\application.cpp(210,34): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(38,15): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(39,15): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\material.cpp(26,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\material.cpp(116,21): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(208,125): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\material.cpp(325,21): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(311,94): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(311,87): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(332,102): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(332,94): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(332,87): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(358,111): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(358,104): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(548,18): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(549,19): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\texture.cpp(562,12): warning C4101: 'bytesPerPixel': variable local sin referencia
+D:\Arnau\Videos\P2_218172_217879\src\animation.cpp(222,14): warning C4101: 'stbuffer': variable local sin referencia
+D:\Arnau\Videos\P2_218172_217879\src\input.cpp(138,24): warning C4244: '=': conversión de 'float' a 'char'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\input.cpp(146,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(334,56): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(335,63): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(360,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(370,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(392,11): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(394,17): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(407,12): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(416,14): warning C4018: '>=': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(456,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(457,59): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(457,44): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(457,29): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(467,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(468,74): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned char'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(468,59): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned char'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(468,44): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned char'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+D:\Arnau\Videos\P2_218172_217879\src\utils.cpp(468,29): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned char'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+D:\Arnau\Videos\P2_218172_217879\src\main.cpp(105,59): warning C4129: 'M': secuencia de escape de carácter no reconocida
+D:\Arnau\Videos\P2_218172_217879\src\main.cpp(200,46): warning C4244: '=': conversión de 'Sint32' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\mesh.cpp(1153,27): warning C4244: 'argumento': conversión de 'double' a 'const unsigned int'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\main.cpp(242,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\mesh.cpp(1154,23): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(66,34): warning C4552: "/": el resultado de la expresión no se usa
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(78,34): warning C4552: "/": el resultado de la expresión no se usa
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(163,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\mesh.cpp(1286,40): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\mesh.cpp(1286,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\mesh.cpp(1288,44): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\mesh.cpp(1288,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\mesh.cpp(1289,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\mesh.cpp(1296,44): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\mesh.cpp(1296,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\mesh.cpp(1298,43): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\mesh.cpp(1311,30): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(164,21): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(165,22): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\mesh.cpp(1334,30): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(167,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(168,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(169,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(171,14): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(172,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\shader.cpp(185,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(181,10): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(190,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(191,21): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(192,22): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(193,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(216,27): warning C4244: 'inicializando': conversión de 'double' a 'unsigned int'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(248,35): warning C4244: 'inicializando': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\volume.cpp(267,13): warning C4244: 'inicializando': conversión de 'float' a 'Uint8'; posible pérdida de datos
+D:\Arnau\Videos\P2_218172_217879\src\shader.cpp(224,20): warning C4018: '<': no coinciden signed/unsigned
+LINK : warning LNK4098: la biblioteca predeterminada'LIBCMT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  5 of 3525 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    35 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+LINK : warning LNK4286: "___glewDeleteBuffers" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewLinkProgram" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDeleteShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGenBuffers" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetProgramInfoLog" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDetachShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewUniformMatrix4fv" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBlendEquationSeparate" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGenVertexArrays" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBlendEquation" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewShaderSource" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDeleteProgram" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewActiveTexture" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewAttachShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBufferData" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetUniformLocation" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBlendFuncSeparate" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDeleteVertexArrays" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetProgramiv" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetShaderInfoLog" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewUniform1i" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewCreateProgram" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBindBuffer" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewCreateShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetAttribLocation" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewCompileShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetShaderiv" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDrawElementsBaseVertex" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewVertexAttribPointer" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewUseProgram" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBindSampler" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBindVertexArray" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewEnableVertexAttribArray" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+glew32s.lib(glew.obj) : warning LNK4099: no se encontró PDB 'vc120.pdb' con 'glew32s.lib(glew.obj)' o en 'D:\Arnau\Videos\P2_218172_217879\vc120.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  visualstudio.vcxproj -> D:\Arnau\Videos\P2_218172_217879\framework.exe
